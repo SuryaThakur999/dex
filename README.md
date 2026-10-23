@@ -71,6 +71,10 @@ what Dex finds.
 
 For partnerships, agencies or press, reach out through [GitHub](https://github.com/SuryaThakur999).
 
+## Also by Surya
+
+**[Yoki.AI](https://github.com/SuryaThakur999/yoki-ai)**: your accountant gives you the numbers, Yoki tells you what they mean next. Cash, VAT and tax-threshold radar for German founders.
+
 ---
 
 <sub>This repository is a product showcase and contains no source code. Dex is proprietary software, all rights
